@@ -1,0 +1,10 @@
+Intent Classification
+Important libraries and prerequisites
+•	pandas
+•	numpy
+•	nltk
+•	sklearn
+•	seaborn
+•	matplotlib
+•	pickle
+•	json
